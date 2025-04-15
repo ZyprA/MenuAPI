@@ -89,7 +89,6 @@ ItemStack item = new ItemBuilder(Material.DIAMOND_SWORD)
 ```java
 setToggleItem(
     int slot,
-    String label,              // 表示用ラベル（必要ならトラッキング用にも）
     boolean initialState,      // 初期状態（true=ON）
     ItemStack onItem,          // ON状態の表示アイテム
     ItemStack offItem,         // OFF状態の表示アイテム
