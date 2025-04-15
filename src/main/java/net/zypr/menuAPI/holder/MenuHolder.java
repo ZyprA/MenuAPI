@@ -1,6 +1,6 @@
 package net.zypr.menuAPI.holder;
 
-import net.zypr.menuAPI.api.Menu;
+import net.zypr.menuAPI.interfaces.Menu;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;
 import org.jetbrains.annotations.NotNull;

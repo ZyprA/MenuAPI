@@ -1,4 +1,4 @@
-package net.zypr.menuAPI.impl;
+package net.zypr.menuAPI.implementation;
 
 import org.bukkit.inventory.ItemStack;
 

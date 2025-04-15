@@ -1,6 +1,6 @@
 package net.zypr.menuAPI.util;
 
-import net.zypr.menuAPI.api.Menu;
+import net.zypr.menuAPI.interfaces.Menu;
 import net.zypr.menuAPI.holder.MenuHolder;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.Inventory;

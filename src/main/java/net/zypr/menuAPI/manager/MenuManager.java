@@ -1,6 +1,6 @@
 package net.zypr.menuAPI.manager;
 
-import net.zypr.menuAPI.api.Menu;
+import net.zypr.menuAPI.interfaces.Menu;
 import net.zypr.menuAPI.context.MenuItemClickContext;
 import net.zypr.menuAPI.holder.MenuHolder;
 import org.bukkit.entity.Player;

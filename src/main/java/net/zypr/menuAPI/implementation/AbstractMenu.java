@@ -1,6 +1,6 @@
-package net.zypr.menuAPI.impl;
+package net.zypr.menuAPI.implementation;
 
-import net.zypr.menuAPI.api.Menu;
+import net.zypr.menuAPI.interfaces.Menu;
 import net.zypr.menuAPI.context.MenuItemClickContext;
 import net.zypr.menuAPI.handler.MenuItemClickHandler;
 import net.zypr.menuAPI.handler.MenuToggleHandler;

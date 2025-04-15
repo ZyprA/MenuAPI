@@ -1,4 +1,4 @@
-package net.zypr.menuAPI.api;
+package net.zypr.menuAPI.interfaces;
 
 import net.zypr.menuAPI.context.MenuItemClickContext;
 import net.zypr.menuAPI.handler.MenuItemClickHandler;

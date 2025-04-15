@@ -1,7 +1,7 @@
 package net.zypr.menuAPI.listener;
 
-import net.zypr.menuAPI.api.ClosableMenu;
-import net.zypr.menuAPI.api.Menu;
+import net.zypr.menuAPI.interfaces.ClosableMenu;
+import net.zypr.menuAPI.interfaces.Menu;
 import net.zypr.menuAPI.holder.MenuHolder;
 import net.zypr.menuAPI.manager.MenuManager;
 import org.bukkit.entity.Player;

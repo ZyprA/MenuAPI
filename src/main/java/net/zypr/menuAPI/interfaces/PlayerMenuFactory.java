@@ -1,4 +1,4 @@
-package net.zypr.menuAPI.api;
+package net.zypr.menuAPI.interfaces;
 
 import org.bukkit.entity.Player;
 

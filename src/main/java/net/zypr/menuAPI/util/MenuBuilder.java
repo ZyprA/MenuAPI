@@ -1,8 +1,8 @@
 package net.zypr.menuAPI.util;
 
-import net.zypr.menuAPI.api.Menu;
+import net.zypr.menuAPI.interfaces.Menu;
 import net.zypr.menuAPI.handler.MenuItemClickHandler;
-import net.zypr.menuAPI.impl.SimpleMenu;
+import net.zypr.menuAPI.implementation.SimpleMenu;
 import org.bukkit.inventory.ItemStack;
 
 /**
