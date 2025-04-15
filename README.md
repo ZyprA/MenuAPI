@@ -1,7 +1,5 @@
 ---
 
-## 📘 `README.md`
-
 # MenuAPI - Spigot/Bukkit向けシンプルで拡張性のあるGUIメニューAPI
 
 `MenuAPI` は、Bukkit/Spigot サーバー向けに作られた **直感的なインベントリGUI API** です。  
