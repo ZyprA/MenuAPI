@@ -26,7 +26,7 @@
 
 **Gradle**
 ```
-epositories {
+repositories {
 	maven { url 'https://jitpack.io' }
 }
 
