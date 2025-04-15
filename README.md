@@ -22,13 +22,13 @@
 
 **Gradle**
 ```
-		repositories {
-			maven { url 'https://jitpack.io' }
-		}
+epositories {
+	maven { url 'https://jitpack.io' }
+}
 
-    dependencies {
-	        implementation 'com.github.ZyprA:MenuAPI:-SNAPSHOT'
-	  }
+dependencies {
+	implementation 'com.github.ZyprA:MenuAPI:-SNAPSHOT'
+}
 ```
 
 Repository: [jitpack](https://jitpack.io/#ZyprA/MenuAPI/)
