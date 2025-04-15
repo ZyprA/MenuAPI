@@ -1,4 +1,4 @@
-package net.zypr.menuAPI.listner;
+package net.zypr.menuAPI.listener;
 
 import net.zypr.menuAPI.api.ClosableMenu;
 import net.zypr.menuAPI.api.Menu;
@@ -15,7 +15,7 @@ import org.bukkit.event.inventory.InventoryCloseEvent;
  * This class listens for inventory click and close events and delegates
  * the handling to the appropriate menu implementations.
  */
-public class MenuListner implements Listener {
+public class MenuListener implements Listener {
 
     /**
      * Handles inventory click events.
