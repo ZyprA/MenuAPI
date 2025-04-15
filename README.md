@@ -1,4 +1,3 @@
----
 
 # MenuAPI - Spigot/Bukkit向けシンプルで拡張性のあるGUIメニューAPI
 
